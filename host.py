@@ -18,8 +18,8 @@ DEFAULT_SETTINGS = {
 }
 
 # --- Set Bot Token and Admin Password Directly Here ---
-TOKEN = "7974975342:AAHEi8ZvI3dHGhwDrnx9u2JKFLMcyMB-dBo"
-ADMIN_PASSWORD = "Harshit@1234"
+TOKEN = "7974975342:KFLMcyMB-dBo"
+ADMIN_PASSWORD = "56684"
 PAYOUT_CHANNEL = "@TR_PayOutChannel"
 ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "@Ankush_Malik")
 
