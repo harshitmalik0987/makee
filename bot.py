@@ -4,8 +4,8 @@ import sqlite3
 import re
 from datetime import datetime
 
-TOKEN = '8084001355:AAHteV_bl0y7J0Q-WLY-jQR409qyvl8ayeE'
-ADMIN_PASSWORD = 'Harshit@1234'
+TOKEN = '8084001355:AAl0y7J0Q-WLY-jQR409qyvl8ayeE'
+ADMIN_PASSWORD = 'h234'
 ADMIN_PANEL_USERS = set()
 MIN_WITHDRAW = 2
 REFER_BONUS = 0.5
